@@ -32,7 +32,7 @@ pre code {
 }
 
 strong, b{
-  color:none;
+  color:#BF360C;
 }
 
 em, i {
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   font-weight: bold;
   text-align: center !important;
-  color: #e53245 !important;
+  color: #009688 !important;
 
 }
 
